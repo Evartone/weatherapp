@@ -5,11 +5,13 @@
 }
 
 body{
-    background: #222;
+
+    background: yellow;
     background-image: url(./image/bg.jpg);
 }
 
 .card{
+
     background: #000000d0;
     width: 90%;
     max-width: 420px;
@@ -53,6 +55,7 @@ body{
 }
 
 .search button img{
+    
     width: 16px;
 }
 
